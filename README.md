@@ -1,1 +1,3 @@
-# chai-counting
+# Chai Counting
+
+... still prototyping ...
