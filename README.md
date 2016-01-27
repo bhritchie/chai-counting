@@ -2,6 +2,8 @@
 
 A simple counting plugin for the [Chai assertion library](http://chaijs.com/). `expect(n).to.be.zero`, `expect(n).to.be.one`, and so on, through `expect(n).to.be.ten`. Alternatively, `n.should.be.zero`, `n.should.be.one`, etc.
 
+[![Build Status](https://travis-ci.org/bhritchie/chai-counting.svg?branch=master)](https://travis-ci.org/bhritchie/chai-counting)
+
 <!--
 ## Install
 
@@ -13,5 +15,3 @@ A simple counting plugin for the [Chai assertion library](http://chaijs.com/). `
 	const chai = require('chai');
 	const chaiCounting = require('chai-counting');
 	chai.use(chaiCounting);
-
-
