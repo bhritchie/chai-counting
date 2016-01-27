@@ -1,11 +1,10 @@
 {
   "name": "chai-counting",
   "version": "0.1.0",
-  "description": "Number assertions for Chai",
-  "main": "index.js",
+  "description": "Simple counting assertions for Chai",
+  "main": "chai-counting.js",
   "scripts": {
-    "test": "npm run test-mocha",
-    "test-mocha": "mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
