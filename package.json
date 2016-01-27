@@ -1,7 +1,7 @@
 {
   "name": "chai-counting",
-  "version": "0.1.0",
-  "description": "Simple counting assertions for Chai",
+  "version": "1.0.0",
+  "description": "A simple counting plugin for the Chai assertion library",
   "main": "chai-counting.js",
   "scripts": {
     "test": "mocha"
